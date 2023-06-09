@@ -15,8 +15,8 @@ Breaking changes can still occur in minor versions, patches and BETA features, i
 
 ### ✨ New Features
 
+* `PreviewAutocompleteProvider` is a new preview service.
 * `SystemKeyboard` has a new `renderBackground` property.
-
 
 
 
